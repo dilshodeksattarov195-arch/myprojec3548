@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersarse",
+        "uuid": 11091048,
+        "checksum": "vk98x"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
